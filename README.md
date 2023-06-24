@@ -13,7 +13,7 @@ This batch script is designed to install an RDP server on non-supported Windows 
 
 2. Ensure that all files, including "RDPWInst.exe" and "rdpwrap.ini," are present in the same directory as the batch script.
 
-3. Right-click on the batch script and choose "Run as administrator" from the context menu.
+3. Right-click on the batch script (install.bat) and choose "Run as administrator" from the context menu.
 
 4. If User Account Control (UAC) prompts for permission, click "Yes" to continue.
 
